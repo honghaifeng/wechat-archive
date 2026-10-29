@@ -1,0 +1,2 @@
+pycryptodome>=3.20      # AES-256-CBC / AES-128-ECB / PBKDF2
+zstandard>=0.22         # 微信 4.x 消息体 zstd 压缩
